@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         EmuParadise Download REEnabler
+// @name         EmuParadise Download Enabler (E.D.E)
 // @version      1
 // @description  Permette di nuovo di scaricare ROMS da EMUparadise !!
 // @author       DaveRamirez (Basato sull'obsoleto: emuparadise.eptun.user.js)
